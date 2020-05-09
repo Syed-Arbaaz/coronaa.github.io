@@ -1,0 +1,117 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%
+	weight:100%;
+}
+.navbar {
+	display: inline;
+	padding: 20px;
+	font-size: 1.6em;
+	padding-right: 20px;
+}
+/**symptoms**/
+.main{
+	background-color: black;
+	color:  #ff7e5f;
+}
+h2{
+	padding:20px;
+	background-color: black;
+	color:  #ff7e5f
+
+}
+h3{
+	padding:20px;
+		background-color: black;
+		color:  #ff7e5f
+}
+
+ul{
+	padding:20px; 
+		background-color: black;
+		color: grey;
+}
+img{
+	padding:30px;
+		background-color: black;
+}
+.main{
+	padding:20px;
+}
+img{
+	height: 250px;
+}
+
+
+
+
+h1,h2{
+	font-family: "Robota" , sans-serif;
+	font-weight: 300;
+	text-align: center;
+	padding-bottom: 20px;
+	font-size:250
+}
+
+.title{
+	background: linear-gradient(to right, #feb47b, #ff7e5f);
+	padding: 20px;
+}
+
+.subtitle {
+	padding: 20px;
+	font-size: 150%;
+}
+
+div {
+	padding: 20px;
+}
+
+.stats-container {
+	text-align: center;
+	float: right;
+	display: inline-block;
+}
+
+.location-container {
+
+display: inline-block;
+}
+
+.data-container {
+	border: 2px solid #feb47b;
+	margin-right: 30%;
+	margin-left: 30%;
+}
+
+h4{
+	font-size: 85%;
+	color: grey;
+	font-family: "Robota" ,sans-serif;
+	font-weight: 300;
+	text-align: center;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.footer {
+	font-family: "Robota" , sans-serif;
+	bottom: 0;
+	padding: 5px;
+	font-size: 75%;
+
+}
+
+
+
+
+
+
+
+
+
